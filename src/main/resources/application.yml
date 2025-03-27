@@ -3,8 +3,8 @@ server:
 spring:
   mail:
     username: javamail_lin@163.com
-    password: THwyrYzVV2MeUPTz
-    host: smtp.163.com
+    password: 
+    host: 
   application:
     name: Linms-Blog
   servlet:
